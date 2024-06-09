@@ -1,0 +1,31 @@
+# Arquivos do sistema operacional
+.DS_Store
+
+# Dependências do Node.js
+/node_modules
+
+# Arquivos de build
+/.next
+/out
+
+# Arquivos de log
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de configuração locais
+.next
+.next.config.js
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de cache
+.cache
+
+# Arquivos de dados do MongoDB
+/data
+
+# Arquivos de configuração do MongoDB
+/mongo.js
